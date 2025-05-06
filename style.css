@@ -1,0 +1,40 @@
+.en{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(14, 14, 14);
+    color: #ffffff;
+}
+.el{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.seccion_2{
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    color: red;
+}
+.seccion_2 h2, h4{
+    padding-right: 20px;
+}
+.navbar{
+    display: flex;
+    background: #ffffff(231, 230, 230);
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar a{
+    color: rgb(12, 12, 12);
+    margin-left: 60px;
+
+}
